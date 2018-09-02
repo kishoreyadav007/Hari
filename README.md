@@ -1,1 +1,2 @@
-# Hari
+# hellowhale
+Simple Docker Demo App
